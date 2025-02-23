@@ -1,0 +1,31 @@
+{
+    "groups": [
+        {
+            "name": "Flood",
+            "layers": [
+                {
+                    "name": "Flood Zones (Canada)",
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afsi_canada_rst@EPSG:900913@png/{z}/{x}/{y}.png"
+                },
+                {
+                    "name": "FEMA Flood Map (USA)",
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afld_zones_v2@EPSG:900913@png/{z}/{x}/{y}.png"
+                }
+            ]
+        },
+        {
+            "name": "Biodiversity",
+            "layers": [
+                {
+                    "name": "Species Distribution",
+                    "url": "http://example.com/geoserver/biodiversity/species@EPSG:900913@png/{z}/{x}/{y}.png"
+                },
+                {
+                    "name": "Habitat Zones",
+                    "url": "http://example.com/geoserver/biodiversity/habitat@EPSG:900913@png/{z}/{x}/{y}.png"
+                },
+                
+            ]
+        }
+    ]
+}
