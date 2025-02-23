@@ -19,12 +19,7 @@
                 {
                     "name": "Species Distribution",
                     "url": "http://example.com/geoserver/biodiversity/species@EPSG:900913@png/{z}/{x}/{y}.png"
-                },
-                {
-                    "name": "Habitat Zones",
-                    "url": "http://example.com/geoserver/biodiversity/habitat@EPSG:900913@png/{z}/{x}/{y}.png"
-                },
-                
+                }
             ]
         }
     ]
