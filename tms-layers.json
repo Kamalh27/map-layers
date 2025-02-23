@@ -17,8 +17,8 @@
             "name": "Biodiversity",
             "layers": [
                 {
-                    "name": "Species Distribution",
-                    "url": "http://example.com/geoserver/biodiversity/species@EPSG:900913@png/{z}/{x}/{y}.png"
+                    "name": "Amphibians All",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_cog@EPSG:900913@png/{z}/{x}/{y}.png"
                 }
             ]
         }
