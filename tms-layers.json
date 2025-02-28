@@ -5,15 +5,18 @@
             "layers": [
                 {
                     "name": "Flood Zones (Canada)",
-                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afsi_canada_rst@EPSG:900913@png/{z}/{x}/{y}.png"
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afsi_canada_rst@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": "http://13.37.215.129:8080/geoserver/wms?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=flood%3Afsi_canada_rst"
                 },
                 {
                     "name": "FEMA Flood Map (USA)",
-                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afld_zones_v2@EPSG:900913@png/{z}/{x}/{y}.png"
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afld_zones_v2@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": "http://13.37.215.129:8080/geoserver/wms?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=flood%3Afld_zones_v2"
                 },
                 {
                     "name": "Floodplain Types & Flood Risk Map (EU)",
-                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood:eu_floodplains_w_risk_areas@EPSG:900913@png/{z}/{x}/{y}.png"
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood:eu_floodplains_w_risk_areas@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": "http://13.37.215.129:8080/geoserver/wms?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=flood:eu_floodplains_w_risk_areas"
                 }
             ]
         },
