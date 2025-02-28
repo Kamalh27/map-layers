@@ -10,6 +10,10 @@
                 {
                     "name": "FEMA Flood Map (USA)",
                     "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood%3Afld_zones_v2@EPSG:900913@png/{z}/{x}/{y}.png"
+                },
+                {
+                    "name": "Floodplain Types & Flood Risk Map (EU)",
+                    "url": "http://13.37.215.129:8080/geoserver/flood/gwc/service/tms/1.0.0/flood:eu_floodplains_w_risk_areas@EPSG:900913@png/{z}/{x}/{y}.png"
                 }
             ]
         },
