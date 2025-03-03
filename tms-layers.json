@@ -27,6 +27,16 @@
                     "name": "Amphibians All",
                     "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_cog@EPSG:900913@png/{z}/{x}/{y}.png",
                     "legendUrl": "https://raw.githubusercontent.com/kamalh27/map-layers/main/amphibians_all.png"
+                },
+                {
+                    "name": "Amphibians Anura",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity%3Aamphibians_anura_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                },
+                {
+                    "name": "Amphibians Gymnophiona",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity%3Aamphibians_gymnophiona_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
                 }
             ]
         }
