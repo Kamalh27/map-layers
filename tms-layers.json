@@ -30,12 +30,32 @@
                 },
                 {
                     "name": "Amphibians Anura",
-                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity%3Aamphibians_anura_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_anura_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                },
+                {
+                    "name": "Amphibians Caudata",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_caudata_cog@EPSG:900913@png/{z}/{x}/{y}.png",
                     "legendUrl": ""
                 },
                 {
                     "name": "Amphibians Gymnophiona",
-                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity%3Aamphibians_gymnophiona_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_gymnophiona_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                },
+                {
+                    "name": "Amphibians DD",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_dd_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                },
+                {
+                    "name": "Amphibians Less Than Median",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_less_than_median_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                },
+                {
+                    "name": "Amphibians Threatened",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_threatened_cog@EPSG:900913@png/{z}/{x}/{y}.png",
                     "legendUrl": ""
                 }
             ]
