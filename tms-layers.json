@@ -57,7 +57,117 @@
                     "name": "Amphibians Threatened",
                     "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:amphibians_threatened_cog@EPSG:900913@png/{z}/{x}/{y}.png",
                     "legendUrl": ""
-                }
+                },
+                {
+                    "name": "Birds Breeding (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_breeding_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Data Deficient (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_dd_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Less Than Median (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_less_than_median_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Less Than Median Threatened (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_less_than_median_threatened_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds All (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Non-Passeriformes (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_non_passeriformes_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Non-Breeding (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_nonbreeding_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Passeriformes",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_passeriformes_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Psittaciformes",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_psittaciformes_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Threatened (No Seabirds)",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_threatened_no_seabirds_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Birds Trochilidae",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:birds_trochilidae_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Carnivora",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_carnivora_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Cetartiodactyla",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_cetartiodactyla_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Chiroptera",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_chiroptera_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals All",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Data Deficient",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_dd_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Eulipotyphla",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_eulipotyphla_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Less Than Median",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_less_than_median_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Marsupialia",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_marsupialia_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Primates",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_primates_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Rodentia",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_rodentia_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  },
+                  {
+                    "name": "Mammals Threatened",
+                    "url": "http://13.37.215.129:8080/geoserver/biodiversity/gwc/service/tms/1.0.0/biodiversity:mammals_threatened_cog@EPSG:900913@png/{z}/{x}/{y}.png",
+                    "legendUrl": ""
+                  }
             ]
         }
     ]
